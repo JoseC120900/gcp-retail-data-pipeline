@@ -7,8 +7,9 @@ Cloud Storage → BigQuery (raw → staging → mart)
 - GCP (BigQuery, Cloud Storage)
 - SQL
 - Mockaroo (generación de datos)
-4. Estructura del proyecto (aunque esté vacía)
+4. Estructura del proyecto
 /data
 /sql
 /scripts
 /docs
+5. Las reglas de calidad fueron definidas previamente en un catálogo documentado antes de su implementación en SQL.
